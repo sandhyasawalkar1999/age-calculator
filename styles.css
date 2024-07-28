@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid rgb(207, 205, 205);
+    font-family: sans-serif;
+    width: 40%;
+    height:50vh;
+    margin: auto;
+    text-align: center  ;
+    margin-top: 60px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgb(231, 228, 228) ;
+
+}
+.heading{
+    font-size: 35px;
+}
+ #date {
+    width: 60%;
+    height: 5vh;
+    border-radius: 5px;
+ }
+ #calculate{
+    background-color: rgb(52, 114, 237);
+    padding: 13px 12px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+ }
